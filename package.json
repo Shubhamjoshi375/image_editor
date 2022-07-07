@@ -9,8 +9,8 @@
     "chokidar": "^3.5.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "djf;jgj":"jdjf;j"
+    "react-scripts": "3.4.1"
+
   },
   "scripts": {
     "predeploy": "npm run build",
